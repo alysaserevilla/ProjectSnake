@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Snake</label>
+		<id>72</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>Snake.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ProjectSnake\ProjectSnake.jcp</path>
+		</project>
+	</projects>
+</workspace>

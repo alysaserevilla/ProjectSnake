@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>ProjectSnake</label>
+		<root_path>\</root_path>
+		<output_path>classes\</output_path>
+		<source_path>src\</source_path>
+		<jdkprofile_ref>JDK version 1.8.0_73</jdkprofile_ref>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items>
+		<item run="ProjectSnake"/>
+	</run_items>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref>&lt;Default&gt;</application_ref>
+			<applet_ref>&lt;Default&gt;</applet_ref>
+			<debugger_ref>&lt;Default&gt;</debugger_ref>
+			<param/>
+			<run>ProjectSnake</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<folderitem>
+				<path>images</path>
+			</folderitem>
+			<fileitem>
+				<path>src\Layout.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\ProjectSnake.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>images\green_round.png</path>
+				<folder>images</folder>
+			</fileitem>
+			<fileitem>
+				<path>images\green_round10x10.png</path>
+				<folder>images</folder>
+			</fileitem>
+			<fileitem>
+				<path>images\orange_block.png</path>
+				<folder>images</folder>
+			</fileitem>
+			<fileitem>
+				<path>images\orange_block10x10.png</path>
+				<folder>images</folder>
+			</fileitem>
+			<fileitem>
+				<path>images\red_block.png</path>
+				<folder>images</folder>
+			</fileitem>
+			<fileitem>
+				<path>images\red_block10x10.png</path>
+				<folder>images</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>
